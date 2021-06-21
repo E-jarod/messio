@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import './routes/home/home.dart';
+import 'routes/home/home_page.dart';
 
 class MessioApp extends StatelessWidget {
   const MessioApp();
